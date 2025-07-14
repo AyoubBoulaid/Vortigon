@@ -1,0 +1,17 @@
+{
+  "hardpoint": {
+    "nuketown": [
+      "Control the central hardpoint first.",
+      "Use sliding to dodge pre-aimed angles.",
+      "Coordinate rotations with teammates."
+    ]
+  },
+  "sensitivity": {
+    "ipad_air_4": {
+      "horizontal_sensitivity": 75,
+      "vertical_sensitivity": 80,
+      "aim_assist": 100,
+      "ads_sensitivity": 65
+    }
+  }
+}

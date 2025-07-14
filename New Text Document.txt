@@ -1,0 +1,15 @@
+codm_bot/
+│
+├── bot.py               # main bot logic
+├── commands/
+│   ├── loadout.py
+│   ├── sensitivity.py
+│   ├── strategy.py
+│   ├── drills.py
+│   └── tips.py
+├── data/
+│   ├── weapons.json     # meta weapon + attachments
+│   ├── maps.json        # map tactics
+│   └── drills.json      # training routines
+└── utils/
+    └── parser.py        # text utils, input handling

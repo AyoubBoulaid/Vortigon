@@ -1,0 +1,22 @@
+{
+  "qq9": {
+    "hardpoint": {
+      "muzzle": "Monolithic Suppressor",
+      "barrel": "RTC Recon Tac Long",
+      "laser": "OWC Laser - Tactical",
+      "underbarrel": "Strike Foregrip",
+      "rear_grip": "Granulated Grip Tape",
+      "perks": "Lightweight, Toughness, Dead Silence"
+    }
+  },
+  "xm4": {
+    "domination": {
+      "muzzle": "Monolithic Suppressor",
+      "barrel": "Owen Gun Barrel",
+      "optic": "MD-ADS Sight",
+      "underbarrel": "Merc Foregrip",
+      "stock": "Corio Stock",
+      "perks": "Quick Fix, Ghost, Overkill"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "rusher": {
+    "aim": [
+      "30-second hip-fire only against bots.",
+      "Focus on headshots in close quarters."
+    ],
+    "movement": [
+      "Sprint-slide-sprint cycles in a 10m lane.",
+      "Wall-bounce practice for unpredictability."
+    ]
+  }
+}
